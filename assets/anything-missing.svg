@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93.916" height="96.076" viewBox="0 0 93.916 96.076">
+  <defs>
+    <clipPath id="clip-path">
+      <path d="M5.958,37.556c0,17.381,13.749,31.47,30.709,31.47s30.708-14.089,30.708-31.47S53.627,6.086,36.667,6.086,5.958,20.175,5.958,37.556" transform="translate(-5.958 -6.086)" fill="none" stroke="#d27137" stroke-width="3"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="93.281" height="95.44" fill="none" stroke="#383e48" stroke-width="3"/>
+    </clipPath>
+  </defs>
+  <g transform="translate(0.318 0.318)">
+    <g transform="translate(1.182 1.182)">
+      <g>
+        <path d="M42.74,54.415,62.076,74.231a7.252,7.252,0,0,0,10.444,0,7.688,7.688,0,0,0,0-10.7L53.184,43.711" transform="translate(16.229 16.625)" fill="#fff" stroke="#383e48" stroke-width="3"/>
+        <path d="M42.74,54.415,62.076,74.231a7.252,7.252,0,0,0,10.444,0,7.688,7.688,0,0,0,0-10.7L53.184,43.711" transform="translate(16.229 16.625)" fill="none" stroke="#383e48" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path d="M76.662,39.692c0,21.458-16.974,38.853-37.912,38.853S.84,61.15.84,39.692,17.813.84,38.75.84,76.662,18.234,76.662,39.692" transform="translate(-0.84 -0.84)" fill="#fff" stroke="#383e48" stroke-width="3"/>
+        <path d="M76.662,39.692c0,21.458-16.974,38.853-37.912,38.853S.84,61.15.84,39.692,17.813.84,38.75.84,76.662,18.234,76.662,39.692Z" transform="translate(-0.84 -0.84)" fill="none" stroke="#383e48" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+    <g transform="translate(8.385 8.565)">
+      <g clip-path="url(#clip-path)">
+        <path d="M38.823,23.694a8.569,8.569,0,1,1-8.567-8.779A8.675,8.675,0,0,1,38.823,23.694Z" transform="translate(0.451 -2.489)" fill="none" stroke="#d27137" stroke-miterlimit="10" stroke-width="3"/>
+        <rect width="37.943" height="31.238" rx="6.382" transform="translate(11.736 35.928)" fill="none" stroke="#d27137" stroke-miterlimit="10" stroke-width="3"/>
+        <line y1="34.336" transform="translate(20.244 48.483)" fill="none" stroke="#d27137" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <line y2="34.336" transform="translate(41.172 48.483)" fill="none" stroke="#d27137" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+    <g transform="translate(0 0)">
+      <g clip-path="url(#clip-path-2)">
+        <path d="M6.98,37.179C6.98,20.585,20.107,7.132,36.3,7.132" transform="translate(2.843 2.906)" fill="none" stroke="#383e48" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

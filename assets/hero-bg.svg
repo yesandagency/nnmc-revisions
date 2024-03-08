@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1160 208.151"
+      preserveAspectRatio="none">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.995" cy="0" r="1.215" gradientTransform="matrix(-0.011, 1, -0.182, -0.002, 1.005, -0.995)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#006ea5"/>
+      <stop offset="1" stop-color="#004880"/>
+    </radialGradient>
+  </defs>
+  <path id="Path_458" data-name="Path 458" d="M0,0H1160V208.151H0Z" fill="url(#radial-gradient)"/>
+</svg>
